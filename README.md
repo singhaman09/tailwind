@@ -30,6 +30,19 @@ This is a responsive React + TypeScript dashboard UI built with Tailwind CSS. It
 
 ##  File Structure
 ```
-src/ ├── components/ │ ├── Blog.tsx │ ├── ButtonGroup.tsx │ ├── Card.tsx │ ├── Dashboard.tsx │ ├── Form.tsx │ ├── Gallery.tsx │ ├── Navbar.tsx │ ├── Pricing.tsx │ └── StatsTable.tsx ├── App.tsx ├── main.tsx └── index.css
+src/
+  ├── components/
+  │         ├── Blog.tsx
+  │         ├── ButtonGroup.tsx
+  │         ├── Card.tsx
+  │         ├── Dashboard.tsx
+  │         ├── Form.tsx
+  │         ├── Gallery.tsx
+  │         ├── Navbar.tsx
+  │         ├── Pricing.tsx
+  │         └── StatsTable.tsx
+  ├── App.tsx
+  ├── main.tsx
+  └── index.css
 ```
 
